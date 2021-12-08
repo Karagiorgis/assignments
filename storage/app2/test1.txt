@@ -1,0 +1,4 @@
+# Write a class that reads the directories and files on your filesystem into a proper Object Oriented data structure; given a single input directory as starting point. Only use techniques and functions that we have discussed up till now.
+# Extend your class with a method that returns the collected representation as an associative array.
+# Output the result as JSON, and write it to a file.
+# Write a class that loads your file system structure from a previously generated JSON result from file.
